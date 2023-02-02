@@ -1,0 +1,22 @@
+/** CSS de pruebas para hacer la chuleta   **/ 
+/* comentarios */ 
+aside {
+    border-width: thin;
+    border-color: black;
+    background-color: blanchedalmond;
+    /*color: blue;*/
+    border-style: solid;
+    
+    margin: 1px;
+    
+}
+/* Que los enlaces en la barra lateral sean de tipo bloque */
+aside a{
+        display:block;
+
+
+}
+
+
+
+
